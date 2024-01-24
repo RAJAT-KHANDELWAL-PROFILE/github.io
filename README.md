@@ -5,7 +5,6 @@
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://github.com/Rajat3141/RajatKhandelwalPortfolio.github.io/edit/main/README.md)
 [![Author](https://img.shields.io/badge/Author-Rajat%20Khandelwal-purple.svg)](https://www.instagram.com/error_code_3.14/?igsh=bmE3MXNoejl3cG1n)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-11%20Jan%202024-yellow.svg)](https://github.com/vinodjangid07/vinodjangid07.github.io)
-<a href="https://github.com/vinodjangid07/vinodjangid07.github.io/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
 
  
 ![Screenshot of Website](![image](https://github.com/Rajat3141/RajatKhandelwalPortfolio.github.io/assets/93872823/f8d6033b-fcb7-451d-917f-4ace94fdd71c))
@@ -20,8 +19,6 @@
 ✔️ Projects\
 ✔️ Contact me
 
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
 
 ## Tools Used 🛠️
 * [<b>GitHub</b>](https://github.com/) - To host my static website (HTML, CSS, JS).
