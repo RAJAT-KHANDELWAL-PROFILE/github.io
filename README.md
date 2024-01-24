@@ -8,7 +8,8 @@
 <a href="https://github.com/vinodjangid07/vinodjangid07.github.io/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
 
  
-![Screenshot of Website](https://github.com/vinodjangid07/vinodjangid07.github.io/assets/86096184/ddd26963-8a93-48fc-afed-cfe05b5da4b2)
+![Screenshot of Website](![image](https://github.com/Rajat3141/RajatKhandelwalPortfolio.github.io/assets/93872823/f8d6033b-fcb7-451d-917f-4ace94fdd71c)
+)
 
 :star: Star me on GitHub — it helps!
 
